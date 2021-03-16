@@ -1,0 +1,2 @@
+1.- Crea un Plugin para mostrar texto después del pie de cada página [Utiliza el gancho de acción wp_footer(), que se llama justo antes de la etiqueta </body> de cierre de cada página, y añade una nueva función llamada mfp_Add_Text(). Cargarlo en la carpeta correspondiente y actívalo en el Panel de control del administrador para ver el cambio.]
+2. Crea otro Plugin en el cual añades un hook de filtro para que a todo contenido de un post le aparezca al final dos enlaces a redes sociales, como por ejemplo FaceBook y Twitter.
